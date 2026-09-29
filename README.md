@@ -1,4 +1,4 @@
-Jerry is a small simple password/encryption program made in python, process of learning cryptography, I/O and a step process ofrelearning python basics.
+Jerry is a small simple password/encryption program made in python, process of learning cryptography, I/O and a step process of relearning python basics.
 
 
 Current Features:
