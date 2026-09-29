@@ -4,7 +4,7 @@ Jerry is a small simple password/encryption program made in python, process of l
 Current Features:
 - Generate random passwords within your range of preferred digits for the length ->
         - ranges: 20, 40, etc.
-        - choices of ascii or byte characters.
+  - choices of ascii or byte characters for randomly generated passwords.
 
 - Derive keys with Argon2id.
 - Store encrypted '.jer' entries -> '.jer' being a literal reskin of json lmao.
